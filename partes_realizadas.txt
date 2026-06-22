@@ -1,0 +1,12 @@
+Trabajo Servicios Web - Base de Datos
+
+Integrante: Manuel Villalobos
+
+Parte realizada:
+Parte #4 - Servicio #4: registrar una oferta
+
+Endpoint desarrollado:
+POST /work-order-system/create-offer
+
+Observación:
+El trabajo se realiza de forma individual. Según la pauta, cuando el trabajo es realizado por un solo integrante corresponde desarrollar únicamente la Parte #4.
